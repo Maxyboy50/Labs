@@ -1,5 +1,5 @@
 # TF Modules
-Place to put Terraform Modules
+Place to put Terraform Modules that are shared across any individual projects.
 
 Modules shall be structured like:
 
