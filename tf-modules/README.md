@@ -3,7 +3,7 @@ Place to put Terraform Modules
 
 Modules shall be structured like:
 
-<category>/<module_type>/<provider>
+<category>/<type>/<provider>
 
 Example:
 
